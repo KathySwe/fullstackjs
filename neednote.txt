@@ -1,0 +1,45 @@
+react native-getting started
+
+java-script is single threaded, asynchronous , event driven execution
+
+
+most of time ,don't get the return 
+
+-observer & promise
+
+browser only understand javascript.
+
+
+in node js , FORM is the entry point.
+
+${} is for multiple line, concatanation
+
+for local variable use key word let
+
+mdn
+
+
+settimeout/run once
+serinterval /many time 
+
+
+TO LEARN NEW
+github node js cheat sheet\
+
+
+Kenken64(kenneth)
+
+ls -al
+git add .  //include all
+git commit -m "new"  //just in local
+git push origin master -u   //origin is local,master is remote
+
+
+Ovserver is improved version of promise and continuously receiving of data,
+
+hacker noon. to read about promise
+
+47.88.199.239 lazada
+
+ 
+
